@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+langchain_community
+langchain_core
+langchain_chroma
+streamlit
+pypdf
+fastapi
+uvicorn[standard]
+openai
+python-multipart
+python-dotenv
